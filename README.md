@@ -1,10 +1,10 @@
 # i3wm-config
-My [https://i3wm.org/](i3 window manager) config file.
+My [i3 window manager](https://i3wm.org/) config file.
 
 ## Dependencies
 
-[https://wiki.archlinux.org/index.php/feh](feh wallpaper manager)
++ [feh wallpaper manager](https://wiki.archlinux.org/index.php/feh)
 
-+ [https://wiki.archlinux.org/index.php/PulseAudio](PulseAudio) with [https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture](ALSA)
++ [PulseAudio](https://wiki.archlinux.org/index.php/PulseAudio) with [ALSA](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture)
 
-+ [https://aur.archlinux.org/packages/ttf-font-awesome/](Font Awesome)
++ [Font Awesome](https://aur.archlinux.org/packages/ttf-font-awesome/)
